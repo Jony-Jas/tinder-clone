@@ -1,9 +1,6 @@
 # Tinder Clone
 This tinder clone was build using MERN stack. All the data are stored in MongoDB and used React as frontend.
 
-#### App Demo:
-https://tinder-clone-9f629.web.app/
-
 #### To Run this Clone it and install modules using
 ```
 npm install
